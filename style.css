@@ -1,0 +1,17 @@
+.smilinguido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.escrita{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
